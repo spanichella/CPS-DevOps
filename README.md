@@ -8,6 +8,26 @@
 [Acknowledgement](https://github.com/janousy/CPS-DevOps/blob/main/README.md#acknowledgement)<br>
 [References](https://github.com/janousy/CPS-DevOps/blob/main/README.md#references)
 
+### License
+
+```
+The  Infrustructure support the generation an comparison of simulation testing tools for CPSs.
+Copyright (C) - Contributors of the repository.
+
+The Infrustructure is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>. 
+```
+
 ## Introduction
 
 Cyber-physical Systems (CPS) are systems in which physical mechanisms are typically controlled and monitored by computer-based algorithms, this by leveraging sensors-based analysis and operational data coming from the environment and domain they are operating [5]. Emerging CPS---from medical monitoring systems and devices, robotics and autonomous systems, automatic pilot avionics, and transportation---are expected to play a crucial role in the quality of life of future generations and the global economy [1].
